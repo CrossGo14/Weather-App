@@ -12,14 +12,6 @@ A simple, clean, and responsive Weather App that fetches current weather and a 7
 - **Search by City**: Search for any city worldwide to get weather updates.
 - **Responsive Design**: Works well on both desktop and mobile devices.
 
----
-
-## Demo
-
-![Weather App Demo](https://user-images.githubusercontent.com/yourusername/weather-app-demo.gif)  
-*(Replace the above URL with a demo GIF or screenshot of your app)*
-
----
 
 ## Installation
 
